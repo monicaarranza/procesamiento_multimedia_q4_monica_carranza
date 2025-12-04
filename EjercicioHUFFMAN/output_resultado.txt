@@ -1,0 +1,1 @@
+Este es un ejemplo de texto para la compresion de Huffman. Huffman es un algoritmo de codificacion sin perdida que utiliza frecuencias para crear codigos de longitud variable, siendo mas corto para caracteres mas frecuentes. La 'e' y la 'a' son muy comunes en el espanol, por lo que tendran codigos cortos.
